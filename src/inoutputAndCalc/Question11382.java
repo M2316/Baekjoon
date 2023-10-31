@@ -2,7 +2,7 @@ package inoutputAndCalc;
 
 import java.util.Scanner;
 
-public class Question132005 {
+public class Question11382 {
     public static void main(String[] args) {
 
 
