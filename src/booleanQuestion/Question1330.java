@@ -1,4 +1,4 @@
-package BooleanQuestion;
+package booleanQuestion;
 
 import java.util.Scanner;
 
